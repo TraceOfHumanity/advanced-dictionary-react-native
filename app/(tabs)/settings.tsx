@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const Dictionary = () => {
+const Settings = () => {
   return (
     <View>
-      <Text>Dictionary</Text>
+      <Text>Settings</Text>
     </View>
   )
 }
 
-export default Dictionary
+export default Settings
